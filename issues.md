@@ -1,7 +1,7 @@
 ---
 title: issues
 layout: issues
-intro_image: "images/illustrations/reading.svg"
+intro_image: "images/illustrations/undraw_social_ideas_e8rj.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---

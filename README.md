@@ -2,7 +2,7 @@
 
 Serif is a modern business theme for Jekyll. It contains multiple content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
 
-[Live Demo](https://jekyll-serif.netlify.app/) | 
+[Live Demo](https://political-jekyll-template.netlify.app/) |
 [Zerostatic Themes](https://www.zerostatic.io)
 
 ![Jekyll Serif Theme screenshot](https://www.zerostatic.io/theme/jekyll-serif/jekyll-serif-screenshot.png)
@@ -30,7 +30,7 @@ Serif is a modern business theme for Jekyll. It contains multiple content types 
 # Installation
 
 ### Installing Ruby & Jekyll
- 
+
 If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
 
 ### Installing Theme
@@ -41,16 +41,16 @@ To run the theme locally, navigate to the theme directory and run:
 
 ```
 bundle install
-``` 
+```
 
 To start the Jekyll local development server.
 
 ```
 bundle exec jekyll serve
-``` 
+```
 
 To build the theme.
- 
+
 ```
 bundle exec jekyll build
 ```
@@ -61,7 +61,7 @@ bundle exec jekyll build
 
 This theme contains a `netlify.toml` and has been tested to work with Netlify.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/zerostaticthemes/jekyll-serif-theme)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://https://github.com/vgwalter/political-jekyll-template)
 
 ## Github Pages
 This theme has been tested to work with Github Pages (and Github Project Pages)

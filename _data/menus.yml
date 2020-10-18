@@ -11,6 +11,9 @@ main:
   - name: "Donate"
     url: "/donate/"
     weight: 4
+  - name: "Contact"
+    url: "/contact/"
+    weight: 4
 
 footer:
   - name: "Home"
