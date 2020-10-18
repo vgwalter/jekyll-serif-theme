@@ -6,6 +6,7 @@ title: 'Lisa Simpson for Illinois'
 google_analytics_id: ''
 homepage:
   name_email_form: true
+  carousel: true
 logo:
   mobile: 'images/logo/democraticlogo.png'
   desktop: 'images/logo/democraticlogo.png'
