@@ -9,9 +9,11 @@ bodyClass: page-home
     <div class="row justify-content-start">
       <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
         {{ content }}
-        {% if site.homepage.show_call_box %}
-          {% include call.html show_button=true %}
+        <div class='name-email'>
+        {% if site.homepage.name_email_form %}
+          {% include form_input.html %}
         {% endif %}
+        </div>
       </div>
       {% if page.intro_image %}
       <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
@@ -21,7 +23,6 @@ bodyClass: page-home
     </div>
   </div>
 </div>
-
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
