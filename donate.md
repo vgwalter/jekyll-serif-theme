@@ -5,6 +5,6 @@ layout: page
 bodyClass: page-about
 ---
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-
+(Act blue has some nice features to embed the donate form here. Each candidate should be able to get their required code from their website)
+[ActBlue Support Embeddable forms](https://support.actblue.com/campaigns/working-with-contribution-forms/embeddable-forms-buttons-for-nonprofits/)
 ![](/screenshots/actblue.png)
