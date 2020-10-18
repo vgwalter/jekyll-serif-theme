@@ -2,9 +2,16 @@
 
 Serif is a modern business theme for Jekyll. It contains multiple content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
 
-[Live Demo](https://political-jekyll-template.netlify.app/) |
+[Live Demo](https://political-jekyll-template.netlify.app/)
 
 ![Jekyll Serif Theme screenshot](screenshots/political_template_index.png)
+
+## Deployment - Netlify
+
+This theme contains a `netlify.toml` and has been tested to work with Netlify.
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://https://github.com/vgwalter/political-jekyll-template)
+
 
 ## Theme features
 
@@ -53,15 +60,6 @@ To build the theme.
 ```
 bundle exec jekyll build
 ```
-
-# Deployment
-
-## Netlify
-
-This theme contains a `netlify.toml` and has been tested to work with Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://https://github.com/vgwalter/political-jekyll-template)
-
 
 ## Credits
 
